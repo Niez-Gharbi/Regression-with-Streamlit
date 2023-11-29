@@ -8,7 +8,6 @@ from xgboost import XGBRegressor
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import MinMaxScaler
 from lightgbm import LGBMRegressor
-# from fbprophet import Prophet
 
 from sklearn.metrics import r2_score
 from sklearn.metrics import mean_squared_error

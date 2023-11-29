@@ -15,6 +15,12 @@ Many models trained with randomly prepared historical data predicted the next 36
 
 On the last page, the performances of these  models were compared and the best model was plotted.
 
+To run the streamlit app, run :
+```
+cd src
+streamlit run app.py
+```
+
 Next Steps:
 
 * Deployment
